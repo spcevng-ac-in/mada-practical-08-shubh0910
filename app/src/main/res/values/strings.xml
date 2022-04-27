@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">practical_8</string>
+    <string-array name="sarr">
+        <item>Unjha</item>
+        <item>Mehsana</item>
+        <item>Visnagar</item>
+        <item>Ahmedabad</item>
+        <item>Surat</item>
+        <item>Palanpur</item>
+    </string-array>
+</resources>
